@@ -462,7 +462,7 @@
           },
           "subModules": [
             {
-              "id": "1.8.4-forge-11.14.4.1563",
+              "id": "1.8.9-forge-11.15.1.2318",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
