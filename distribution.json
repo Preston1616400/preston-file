@@ -436,6 +436,77 @@
       ]
     },
     {
+      "id": "Demo-1.8.4",
+      "name": "Demo (Minecraft 1.8.4)",
+      "description": "Demo Running Minecraft 1.8.4 (Forge)",
+      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.8.4/Demo-1.8.4.png",
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.8.4",
+      "discord": {
+        "shortId": "1.8.4 Demo",
+        "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
+        "largeImageText": "forge-vanilla"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.8.4-11.14.4.1563",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 2731655,
+            "MD5": "f0e3d48c4d46e2f2a704a4480cae3b77",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.4-11.14.4.1563/forge-1.8.4-11.14.4.1563-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.8.4-forge-11.14.4.1563",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 12475,
+                "MD5": "3d9e46c9c3b33e8e81c48479c5c7c182",
+                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.4-11.14.4.1563/forge-1.8.4-11.14.4.1563-universal.json"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.minecraft:launchwrapper:1.12",
+          "name": "Minecraft (launchwrapper)",
+          "type": "Library",
+          "artifact": {
+            "size": 32999,
+            "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+            "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+          }
+        },
+        {
+          "id": "org.ow2.asm:asm-all:5.0.3",
+          "name": "Minecraft (asm-all)",
+          "type": "Library",
+          "artifact": {
+            "size": 241639,
+            "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
+            "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
+          }
+        },
+        {
+          "id": "hi.txt",
+          "name": "hi.txt",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://helios-files.geekcorner.eu.org/servers/Demo-1.8.4/files/hi.txt",
+            "MD5": "e752096b159035a3ffaf396fb111b837",
+            "path": "hi.txt"
+          }
+        }
+      ]
+    },
+    {
       "id": "Demo-1.20",
       "name": "Demo (Minecraft 1.20)",
       "description": "Demo Running Minecraft 1.20 (Forge v46.0.2)",
