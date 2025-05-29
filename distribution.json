@@ -436,6 +436,25 @@
       ]
     },
     {
+      "id": "Test1-1.12.2",
+      "name": "Test1 (Minecraft 1.12.2)",
+      "description": "Test1 Running Minecraft 1.12.2",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+},
+    {
       "id": "Demo-1.20",
       "name": "Demo (Minecraft 1.20)",
       "description": "Demo Running Minecraft 1.20 (Forge v46.0.2)",
