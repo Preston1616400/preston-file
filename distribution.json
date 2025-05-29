@@ -452,7 +452,7 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.8.4-11.14.4.1563",
+          "id": "net.minecraftforge:forge:1.8.9-11.15.1.2318",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
           "artifact": {
