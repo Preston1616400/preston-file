@@ -435,54 +435,6 @@
         }
       ]
     },
-{
-  "id": "Demo-1.8.9",
-  "name": "Demo (Minecraft 1.8.9)",
-  "description": "Demo Running Minecraft 1.8.9 (Forge)",
-  "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.8.9/Demo-1.8.9.png",
-  "version": "1.0.0",
-  "address": "localhost:25565",
-  "minecraftVersion": "1.8.9",
-  "discord": {
-    "shortId": "1.8.9 Demo",
-    "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
-    "largeImageText": "forge-vanilla"
-  },
-  "mainServer": false,
-  "autoconnect": false,
-  "modules": [
-    {
-      "id": "net.minecraftforge:forge:1.8.9-11.15.1.2318",
-      "name": "Minecraft Forge 1.8.9",
-      "type": "ForgeHosted",
-      "artifact": {
-        "size": 4089561,
-        "MD5": "85f2b4c7291086d1ef27c1d65945b74d",
-        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318/forge-1.8.9-11.15.1.2318-universal.jar"
-      }
-    },
-    {
-      "id": "net.minecraft:launchwrapper:1.12",
-      "name": "Minecraft (launchwrapper)",
-      "type": "Library",
-      "artifact": {
-        "size": 32999,
-        "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-        "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
-      }
-    },
-    {
-      "id": "org.ow2.asm:asm-all:5.0.3",
-      "name": "Minecraft (asm-all)",
-      "type": "Library",
-      "artifact": {
-        "size": 241639,
-        "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
-        "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
-      }
-    }
-  ]
-},
         {
           "id": "net.minecraft:launchwrapper:1.12",
           "name": "Minecraft (launchwrapper)",
