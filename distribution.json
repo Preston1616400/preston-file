@@ -1018,7 +1018,7 @@
     {
       "id": "WesterosCraft-Demo-1.12.2",
       "name": "Test Minecraft (Minecraft 1.12.2)",
-      "description": "WesterosCraft-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "description": "Preston test Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/WesterosCraft-Demo-1.12.2.png",
       "version": "2.1.6",
       "address": "mc.westeroscraft.com:25565",
