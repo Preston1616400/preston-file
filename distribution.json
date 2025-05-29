@@ -435,39 +435,6 @@
         }
       ]
     },
-        {
-          "id": "net.minecraft:launchwrapper:1.12",
-          "name": "Minecraft (launchwrapper)",
-          "type": "Library",
-          "artifact": {
-            "size": 32999,
-            "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-            "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
-          }
-        },
-        {
-          "id": "org.ow2.asm:asm-all:5.0.3",
-          "name": "Minecraft (asm-all)",
-          "type": "Library",
-          "artifact": {
-            "size": 241639,
-            "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
-            "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
-          }
-        },
-        {
-          "id": "hi.txt",
-          "name": "hi.txt",
-          "type": "File",
-          "artifact": {
-            "size": 147,
-            "url": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/files/hi.txt",
-            "MD5": "e752096b159035a3ffaf396fb111b837",
-            "path": "hi.txt"
-          }
-        }
-      ]
-    },
     {
       "id": "Demo-1.20",
       "name": "Demo (Minecraft 1.20)",
@@ -1050,8 +1017,8 @@
     },
     {
       "id": "WesterosCraft-Demo-1.12.2",
-      "name": "Test Minecraft (Minecraft 1.12.2)",
-      "description": "Preston test Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "name": "WesterosCraft-Demo (Minecraft 1.12.2)",
+      "description": "WesterosCraft-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/WesterosCraft-Demo-1.12.2.png",
       "version": "2.1.6",
       "address": "mc.westeroscraft.com:25565",
