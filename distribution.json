@@ -458,7 +458,7 @@
           "artifact": {
             "size": 2731655,
             "MD5": "f0e3d48c4d46e2f2a704a4480cae3b77",
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.4-11.14.4.1563/forge-1.8.4-11.14.4.1563-universal.jar"
+            "url": "https://launcher.mojang.com/v1/objects/3870888a6c3d349d3771a3e9d16c9bf5e076b908/client.jar"
           },
           "subModules": [
             {
@@ -468,7 +468,7 @@
               "artifact": {
                 "size": 12475,
                 "MD5": "3d9e46c9c3b33e8e81c48479c5c7c182",
-                "url": "https://preston1616400.github.io/preston-file/1.8-11.14.4.1563.json"
+                "url": "https://launchermeta.mojang.com/v1/packages/f6ad102bcaa53b1a58358f16e376d548d44933ec/1.8.json"
               }
             }
           ]
