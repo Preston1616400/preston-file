@@ -1,0 +1,60 @@
+{
+    "id": "1.8.4-forge-11.14.4.1563",
+    "time": "2015-07-17T12:00:00+00:00",
+    "releaseTime": "2015-07-17T12:00:00+00:00",
+    "type": "release",
+    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "inheritsFrom": "1.8.4",
+    "jar": "1.8.4",
+    "libraries": [
+        {
+            "name": "net.minecraftforge:forge:1.8.4-11.14.4.1563",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "net.minecraft:launchwrapper:1.12",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "org.ow2.asm:asm-all:5.0.3",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "org.scala-lang:scala-library:2.11.1",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "org.scala-lang:scala-compiler:2.11.1",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "org.scala-lang:scala-reflect:2.11.1",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "net.sf.jopt-simple:jopt-simple:4.6",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "com.typesafe:config:1.2.1",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "org.scala-lang.modules:scala-parser-combinators_2.11:1.0.1",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "org.scala-lang.modules:scala-xml_2.11:1.0.2",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        },
+        {
+            "name": "lzma:lzma:0.0.1",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/"
+        }
+    ]
+}
