@@ -439,7 +439,7 @@
       "id": "Test1-1.9.4",
       "name": "Test1 (Minecraft 1.9.4)",
       "description": "Test1 Running Minecraft 1.9.4",
-      "icon": null,
+      "icon": https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.9.4",
