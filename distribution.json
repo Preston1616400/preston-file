@@ -499,7 +499,7 @@
           "type": "File",
           "artifact": {
             "size": 147,
-            "url": "https://helios-files.geekcorner.eu.org/servers/Demo-1.8.4/files/hi.txt",
+            "url": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/files/hi.txt",
             "MD5": "e752096b159035a3ffaf396fb111b837",
             "path": "hi.txt"
           }
